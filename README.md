@@ -4,7 +4,7 @@
 Project to create an automated monitoring system where the user can be monitored automatically through the webcam and microphone. The project is divided into two parts: vision and audio based functionalities.
 
 
-[![Watch the video](https://github.com/codebugged/Titanic/blob/master/Titanic%20Kaggle%20Problem/titanic/video_thumbnail.jpg)](https://youtu.be/Nqzpgim9eIQ)
+[![Watch the video](https://user-images.githubusercontent.com/48823353/97790635-18f8ed80-1bf0-11eb-8c47-7e29abeb20ff.png)](https://youtu.be/Nqzpgim9eIQ)
 
 
 
